@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "empleadoList"
+  "defaultProject": "empleadoList",
+  "cli": {
+    "analytics": "052b71eb-4f57-45ac-b9e2-79c4f1eef143"
+  }
 }
